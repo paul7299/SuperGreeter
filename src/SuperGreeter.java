@@ -23,5 +23,4 @@ public class SuperGreeter {
     public void stupiderMethod() {
         System.out.println("Even stupider");
     }
-
 }
